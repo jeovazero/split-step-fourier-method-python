@@ -34,7 +34,9 @@ python3 split-step-fourier-method.py
 
 > It will open your browser and show the plots
 
-<br>
-<br>
+
+## :page_facing_up: License
+The source code is licensed under **GPL v3**. License is available [here](https://github.com/jeovazero/split-step-fourier-method-python/blob/master/LICENSE).
+
 
 :v: Made by <a href="https://github.com/jeovazero">@jeovazero</a>
